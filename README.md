@@ -1,0 +1,2 @@
+# gestaodeTI
+supertrunfo-iniciante
